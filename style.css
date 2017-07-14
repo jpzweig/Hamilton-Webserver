@@ -1,0 +1,113 @@
+<!-- This is the style sheet for the hamilton webserver -->
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+
+}
+
+p {
+	font-size: 14px;
+	font-weight: lighter;
+	font-family: "Roboto";
+}
+
+
+h1 {
+	background-color: white;
+  padding-right: 10px;
+  padding-left: 10px;
+	font-weight: lighter;
+	font-family: "Roboto Condensed";
+  text-align: center;
+}
+
+h2 {
+	background-color: white;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-weight: lighter;
+	font-family: "Roboto Condensed";
+}
+
+h3 {
+  background-color: white;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-weight: lighter;
+  font-family: "Roboto Condensed";
+}
+
+div {
+	background-color: #FFFFFF;
+}
+
+#logo{
+  background-color: #065BAA;
+}
+
+.main {
+  margin: auto;
+  width: 75%;
+  border: 3px solid #40B4E5;
+  padding: 10px;
+}
+
+.static {
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+#load1prog {
+    width: 100%;
+    background-color: white;
+}
+
+#load1bar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+}
+
+#load2prog {
+    width: 100%;
+    background-color: white;
+}
+
+#load2bar {
+    width: 1%;
+    height: 30px;
+    background-color: blue;
+}
+
+#load3prog {
+    width: 100%;
+    background-color: white;
+}
+
+#load3bar {
+    width: 1%;
+    height: 30px;
+    background-color: red;
+}
+
+#load4prog {
+    width: 100%;
+    background-color: white;
+}
+
+#load4bar {
+    width: 1%;
+    height: 30px;
+    background-color: yellow;
+}
