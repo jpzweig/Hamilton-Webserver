@@ -1,0 +1,17 @@
+14JUL2017 Automation Meeting
+
+What information are we pulling? Checklist:
+-count, unit (10 plates)
+       -e.g. plates, tubes, samples, cells, etc.
+-method name
+-Date (start/end time) 
+-status (completed, in prog, not started)
+-phase, current step ("5 plates have started phase 4")
+-Flask/rest to talk to the server on client side
+-Live refresh?
+-Birds eye map of devices?
+-ERROR button to automatically send an email to automation team
+-fields to add systems
+-each system w/ a unique identifier, short description
+-preview (last 5 processes/runs)
+-be able to sort through table (all failed, paused, completed, etc)
